@@ -1,4 +1,4 @@
-# 基于react-native0.82版本的图片选择器（TurboModule）
+# 基于react-native0.82版本的图片选择器（Turbo Native Module）
 
 This is a fork of  [react-native-syan-image-picker](https://github.com/syanbo/react-native-syan-image-picker)
 
