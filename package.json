@@ -1,7 +1,7 @@
 {
-  "name": "@ht-react-native/imagepicker",
+  "name": "@ht/react-native-imagepicker",
   "version": "0.1.0",
-  "description": "@ht-react-native/imagepicker",
+  "description": "@ht/react-native-imagepicker",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
